@@ -1,0 +1,15 @@
+.footer{
+    height:107px;
+    width:2900px;
+    background:#344b8e;
+    top:0px;
+}
+#ug{
+    display: flex;
+    justify-content: center;
+    width:98px;
+    height:35.34px;
+    margin-left:100px;
+    grid-row:1;
+    color:white;
+}
